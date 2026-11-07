@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+
+# Build directories
+build/
+out/
+
+# VS Code settings (optional to track)
+# .vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
